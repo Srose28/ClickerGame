@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "./image/hellokitty.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./image/hellokitty.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./image/hellokitty.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./image/hellokitty.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./image/hellokitty.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./image/hellokitty.jpg",
+        "clicked": false
+    }
+]
